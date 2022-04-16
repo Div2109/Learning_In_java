@@ -1,4 +1,4 @@
-package P1;
+package Unit_01;
 
 public class P2_Task02_ConstantsInJava {
 	static final int n = 10;
